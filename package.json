@@ -1,0 +1,27 @@
+{
+  "name": "claude-gh",
+  "version": "0.1.0",
+  "description": "Claude Code plugin: this session's GitHub PRs above the prompt, with their CI, workflow runs, reviews and merging.",
+  "private": true,
+  "scripts": {
+    "test": "claude plugin test plugin",
+    "typecheck": "tsc -p plugin --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "license": "MIT",
+  "author": "Alberto Marturelo Lorenzo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertomarturelo/claude-gh.git"
+  },
+  "homepage": "https://github.com/albertomarturelo/claude-gh#readme",
+  "bugs": "https://github.com/albertomarturelo/claude-gh/issues",
+  "keywords": [
+    "claude-code",
+    "github",
+    "pull-requests",
+    "git-worktree"
+  ]
+}

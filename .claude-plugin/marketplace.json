@@ -1,0 +1,14 @@
+{
+  "name": "claude-gh",
+  "description": "claude-gh: this session's GitHub PRs, their CI and merging, inside Claude Code",
+  "owner": {
+    "name": "Alberto Marturelo Lorenzo"
+  },
+  "plugins": [
+    {
+      "name": "claude-gh",
+      "source": "./plugin",
+      "description": "This session's PRs above the prompt, and a pane with their CI, workflow runs, reviews and merging"
+    }
+  ]
+}

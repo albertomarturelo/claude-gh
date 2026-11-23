@@ -1,0 +1,27 @@
+{
+  "name": "claude-gh",
+  "version": "0.1.0",
+  "description": "This session's PRs above the prompt, and a pane with their CI, workflow runs, reviews and merging",
+  "author": {
+    "name": "Alberto Marturelo Lorenzo",
+    "url": "https://github.com/albertomarturelo"
+  },
+  "homepage": "https://github.com/albertomarturelo/claude-gh",
+  "repository": "https://github.com/albertomarturelo/claude-gh",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "pull-requests",
+    "ci",
+    "worktree"
+  ],
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "hideMergedSessionPrs": {
+      "type": "boolean",
+      "title": "Hide merged session PRs",
+      "description": "Leave this session's merged PRs out of the line above the prompt and the pane.",
+      "default": true
+    }
+  }
+}

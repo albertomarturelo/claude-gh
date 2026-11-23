@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="110" viewBox="0 0 560 110" role="img" aria-label="The line above the prompt: the base branch and this session's PRs">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:14px;white-space:pre}</style>
+<rect width="100%" height="100%" rx="10" fill="#16161e"/>
+<rect width="100%" height="28" rx="10" fill="#22222c"/><rect y="18" width="100%" height="10" fill="#22222c"/>
+<circle cx="18" cy="14" r="5.5" fill="#ff5f57"/><circle cx="36" cy="14" r="5.5" fill="#febc2e"/><circle cx="54" cy="14" r="5.5" fill="#28c840"/>
+<text x="280" y="18" fill="#7c8190" text-anchor="middle" style="font-size:12px">claude — acme</text>
+<text x="20.0" y="57" fill="#d4d4d8">[ </text>
+<text x="37.2" y="57" fill="#d4d4d8" font-weight="700">main</text>
+<text x="71.6" y="57" fill="#ffd75f"> ↓3 ⟳</text>
+<text x="123.2" y="57" fill="#d4d4d8"> ]</text>
+<text x="140.4" y="57" fill="#7c8190"> ·</text>
+<text x="157.6" y="57" fill="#d4d4d8"> [ </text>
+<rect x="183.4" y="42" width="25.8" height="20" rx="3" fill="#87d7ff"/>
+<text x="183.4" y="57" fill="#16161e" font-weight="700">#42</text>
+<text x="209.2" y="57" fill="#ffd75f"> ⏳</text>
+<text x="235.0" y="57" fill="#d4d4d8"> ] [ #38</text>
+<text x="303.8" y="57" fill="#5fd787"> ✓</text>
+<text x="329.6" y="57" fill="#d4d4d8"> ] [ </text>
+<text x="372.6" y="57" fill="#7c8190">#35</text>
+<text x="398.4" y="57" fill="#ff5f5f"> closed</text>
+<text x="458.6" y="57" fill="#d4d4d8"> ]</text>
+<line x1="20" x2="540" y1="74" y2="74" stroke="#3a3a46"/>
+<text x="20.0" y="97" fill="#7c8190">&gt; </text>
+<text x="37.2" y="97" fill="#7c8190">▌</text>
+</svg>
